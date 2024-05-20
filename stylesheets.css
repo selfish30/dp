@@ -1,0 +1,24 @@
+.headermain {
+	height: 100px;
+	background-color: #909090;
+}
+.headermain li {
+	display: inline-block;
+}
+.headermain {
+	list-style-type: none;
+}
+li a {
+	text-decoration: none;
+	color: black;
+}
+li a:hover {
+	color: green;
+}
+.carousel-item img {
+	height: 100px;
+}
+
+.row{
+	display: flex;
+}
